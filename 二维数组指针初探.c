@@ -3,7 +3,7 @@
 //int main(void)
 //{
 //    int zippo[4][2] = { {1,2}, {3,4}, {5,6}, {7, 8} };
-//
+//    
 //    printf("   zippo = %p,    zippo + 1 = %p\n",
 //        zippo, zippo + 1);
 //    printf("zippo[0] = %p, zippo[0] + 1 = %p\n",

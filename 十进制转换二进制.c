@@ -1,6 +1,6 @@
 ////程序思路--将计算结果倒序存入数组中,然后顺序输出
 //#include <stdio.h>
-//#define length 8
+//#define length 32
 //int main(void) {
 //	int array[length]={0};//二进制位数量
 //	int test;
