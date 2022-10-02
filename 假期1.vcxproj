@@ -19,12 +19,16 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\..\Desktop\flc.c" />
+    <ClCompile Include="..\..\..\..\Desktop\vararr2d.c" />
     <ClCompile Include="0.c" />
     <ClCompile Include="const初探.c" />
     <ClCompile Include="helloworld.c" />
     <ClCompile Include="二维数组指针使用浅例.c" />
     <ClCompile Include="二维数组指针初探.c" />
     <ClCompile Include="十进制转换二进制.c" />
+    <ClCompile Include="变长数组.c" />
+    <ClCompile Include="字符串是静态存储类型.c" />
     <ClCompile Include="指针(2)--指针越界.c" />
     <ClCompile Include="指针初探(交换两个数).c" />
     <ClCompile Include="比大小.c" />
