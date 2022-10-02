@@ -48,5 +48,20 @@
     <ClCompile Include="const初探.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="二维数组指针使用浅例.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="变长数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\flc.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\vararr2d.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串是静态存储类型.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
