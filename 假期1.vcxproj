@@ -32,6 +32,7 @@
     <ClCompile Include="指针初探(交换两个数).c" />
     <ClCompile Include="比大小.c" />
     <ClCompile Include="浮点型最大精确度.c" />
+    <ClCompile Include="赋值表达式的结果.c" />
     <ClCompile Include="连点器.c" />
     <ClCompile Include="fgets.c" />
     <ClCompile Include="阶梯电价.c" />
