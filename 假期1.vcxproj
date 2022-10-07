@@ -23,6 +23,7 @@
     <ClCompile Include="1321.c" />
     <ClCompile Include="const初探.c" />
     <ClCompile Include="helloworld.c" />
+    <ClCompile Include="strcat测试.c" />
     <ClCompile Include="二维数组指针使用浅例.c" />
     <ClCompile Include="二维数组指针初探.c" />
     <ClCompile Include="十进制转换二进制.c" />

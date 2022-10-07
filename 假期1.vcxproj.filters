@@ -66,6 +66,9 @@
     <ClCompile Include="赋值表达式的结果.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="strcat测试.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="mylibrary.h">
