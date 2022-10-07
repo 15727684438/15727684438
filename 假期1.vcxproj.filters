@@ -54,14 +54,19 @@
     <ClCompile Include="变长数组.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Desktop\flc.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\Desktop\vararr2d.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="字符串是静态存储类型.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1321.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fgets.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="mylibrary.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
