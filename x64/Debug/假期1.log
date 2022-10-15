@@ -1,3 +1,2 @@
-﻿  字符串是静态存储类型.c
-C:\Users\ADMIN\source\repos\15727684438\15727684438\字符串是静态存储类型.c(13,51): warning C4047: “-”:“char *”与“char (*)[19]”的间接级别不同
-  假期1.vcxproj -> C:\Users\ADMIN\source\repos\15727684438\15727684438\x64\Debug\假期1.exe
+﻿  给主函数传递参数.c
+  假期1.vcxproj -> C:\Users\Administrator\source\repos\157\x64\Debug\假期1.exe

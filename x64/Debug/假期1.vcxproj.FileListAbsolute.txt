@@ -1,2 +1,3 @@
 C:\Users\Administrator\Desktop\VSproject\假期1\x64\Debug\假期1.exe
 C:\Users\ADMIN\source\repos\15727684438\15727684438\x64\Debug\假期1.exe
+C:\Users\Administrator\source\repos\157\x64\Debug\假期1.exe
