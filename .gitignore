@@ -2,8 +2,17 @@
 # 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
 ################################################################################
 
-/.vs/假期1/v17/Browse.VC.opendb
-/.vs
-/x64
-.vs/假期1/v17
-/.vs/假期1/v17
+/.vs/假期1/v17/
+.vs/**
+x64/**
+.vs/假期1/v17/
+/.vs/假期1/v17/
+*.tlog
+*.pdb
+*.log
+*.obj
+*.idb
+*.ilk
+*.db
+.suo
+
