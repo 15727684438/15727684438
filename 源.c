@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main(void) {
-	putchar(25);
+	int a = 10;
+	printf("%d",a = 10);
 	getchar();
 	return 0;
 }
