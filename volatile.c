@@ -1,9 +1,7 @@
 #include <stdio.h>	
 int main(void) {
-	volatile long a = 0;
-	while (a < 100000000)
-	{
-		a++;
-	}
+	FILE* fp = fopen("helloworld.txt", "w+");
+	fclose(fp);
+	
 	return 0;
 }
