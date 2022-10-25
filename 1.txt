@@ -1,0 +1,154 @@
+格洛克 18 型：give weapon_glock
+
+P2000：give weapon_hkp2000
+
+USP 消音版：give weapon_usp_silencer
+
+双持贝瑞塔：give weapon_elite
+
+P250：give weapon_p250
+
+FN57：give weapon_fivesevens
+
+TEC-9：give weapon_tec9
+
+CZ75 自动手枪：give weapon_cz75a
+
+沙漠之鹰：give weapon_deagle
+
+R8 左轮手枪：give weapon_revolver
+
+ 
+
+重型武器
+新星：give weapon_nova
+
+XM1014：give weapon_xm1014
+
+MGA-7：give weapon_mag7
+
+截短霰弹枪：give weapon_sawedoff
+
+M249：give weapon_m249
+
+内格夫：give weapon_negev
+
+ 
+
+微型冲锋枪
+MP9：give weapon_mp9
+
+MAC-10：give weapon_mac10
+
+MP7：give weapon_mp7
+
+MP5-SD：give weapon_mp5sd
+
+UMP-45：give weapon_ump45
+
+P90：give weapon_p90
+
+PP-野牛：give weapon_bizon
+
+ 
+
+步枪
+加利尔 AR：give weapon_galilar
+
+法玛斯：give weapon_famas
+
+AK-47：give weapon_ak47
+
+M4A4：give weapon_m4a1
+
+M4A1 消音型：give weapon_m4a1_silencer
+
+SG 553：give weapon_sg556
+
+AUG：give weapon_aug
+
+ 
+
+狙击步枪
+SSG 08：give weapon_ssg08
+
+AWP：give weapon_awp
+
+G3SG1：give weapon_g3sg1
+
+SCAR-20：give weapon_scar20
+
+ 
+
+手雷/投掷物
+燃烧瓶：give weapon_molotov
+
+燃烧弹：give weapon_incgrenade
+
+诱饵手雷：give weapon_decoy
+
+闪光震撼弹：give weapon_flashbang
+
+高爆手雷：give weapon_hegrenade
+
+烟雾弹：give weapon_smokegrenade
+
+ 
+
+装备
+防弹背心：give item_kevlar
+
+防弹背心+头盔：give item_assaultsuit
+
+宙斯 X27 电击枪：give weapon_taser
+
+拆弹器：give item_defuser
+
+营救工具包：give item_cutters
+
+ 
+
+头号特训道具
+医疗针：give weapon_healthshot
+
+遥控C4：give weapon_breachcharge
+
+钱（50金）：give item_cash
+
+特训助手：give weapon_tablet"
+
+弹射地雷：give weapon_bumpmine
+
+防爆盾：give weapon_shield
+
+Exo跳跃：exojump
+
+降落伞：give parachute
+
+锤子：give weapon_hammer;ent_fire weapon_melee addoutput "classname weapon_knifegg
+
+斧头：give weapon_axe;ent_fire weapon_melee addoutput "classname weapon_knifegg
+
+扳手：give weapon_spanner;ent_fire weapon_melee addoutput "classname weapon_knifegg
+
+徒手/拳头：give weapon_fists; ent_fire weapon_fists addoutput "classname weapon_knifegg
+
+自动哨兵：give dronegun
+
+ 
+
+其他
+战术探测手雷：give weapon_tagrenade
+
+雪球：give weapon_snowball
+
+夜视仪：give item_nvgs; nightvision（再输入nightvision关闭）
+
+重型突击套装：mp_weapons_allow_heavyassaultsuit 1; give item_heavyassaultsuit
+
+排斥装置：give weapon_zone_repulsor
+
+鸡：give chicken
+
+C4：give weapon_c4 作者：RushB中文网 https://www.bilibili.com/read/cv6168176 出处：bilibili
+ 

@@ -84,10 +84,18 @@
     <ClCompile Include="volatile.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="文件函数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="mylibrary.h">
       <Filter>头文件</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Write_exec-13-11-10.c">
+      <Filter>源文件</Filter>
+    </None>
   </ItemGroup>
 </Project>

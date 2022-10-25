@@ -34,6 +34,7 @@
     <ClCompile Include="字符串是静态存储类型.c" />
     <ClCompile Include="指针(2)--指针越界.c" />
     <ClCompile Include="指针初探(交换两个数).c" />
+    <ClCompile Include="文件函数.c" />
     <ClCompile Include="比大小.c" />
     <ClCompile Include="浮点型最大精确度.c" />
     <ClCompile Include="源.c" />
@@ -45,6 +46,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="mylibrary.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Write_exec-13-11-10.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
